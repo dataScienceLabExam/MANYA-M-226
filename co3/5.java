@@ -14,14 +14,14 @@ public class Result implements Student,Sports{
 }
 
 interface Student{	
-	String name="Human";
+	String name="Manya";
 	int java=100;
 	
 }
 
 
 interface Sports{
-	int sm=30;
+	int sm=40;
 	
 
 }
